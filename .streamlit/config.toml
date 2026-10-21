@@ -1,0 +1,15 @@
+[theme]
+# Cor principal (linha da aba selecionada, botões primários, sliders, etc.)
+primaryColor = "#0066cc"
+
+# Cor de fundo da página principal (um tom bem leve/branco para contraste)
+backgroundColor = "#ffffff"
+
+# Cor de fundo secundária (caixas de seleção, inputs e áreas de destaque)
+secondaryBackgroundColor = "#f0f5fa"
+
+# Cor do texto principal
+textColor = "#1a1a1a"
+
+# Fonte padrão do sistema
+font = "sans serif"
