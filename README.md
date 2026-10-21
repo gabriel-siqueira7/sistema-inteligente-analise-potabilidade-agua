@@ -1,6 +1,6 @@
 # Sistema Inteligente de Análise e Potabilidade da Água
 
-[![Streamlit App](https://streamlit.io)](INSIRA_O_LINK_DO_SEU_SITE_AQUI)
+[![Streamlit App](https://streamlit.io)](https://potabilidadeagua.streamlit.app)
 
 Este projeto consiste em um dashboard analítico e preditivo focado em Saneamento Ambiental e Saúde Pública. A aplicação combina **Análise Exploratória de Dados (EDA)** com algoritmos de **Machine Learning** para avaliar propriedades físico-químicas laboratoriais e prever se uma amostra de água está segura ou imprópria para o consumo humano.
 
